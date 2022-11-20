@@ -21,9 +21,11 @@ if ($_GET['sil'] == "ok") {
   $sil = $baglan->prepare("DELETE FROM kayitlar WHERE id=:id");
   $kontrol = $sil->execute(array('id' => $_GET['id']));
   if ($kontrol) {
-    //  echo "<script>alert('Kayıt Silindi!'); window.location.href='liste.php?sil=ok'; </script>";
-    header("location:liste.php?sil=ok");
+    //  echo "<script>alert('Kayıt Silindi!'); window.location.href='liste.php'; </script>";
+    header("location:liste.php");
   } else {
-    header("location:liste.php?sil=no");
+    header("location:liste.php");
   }
 }
+
+?>
