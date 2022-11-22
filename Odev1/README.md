@@ -1,4 +1,4 @@
-<img src="https://github.com/HuseyinUnalan/image/blob/main/odev1.png?raw=true" width="auto">
+<img src="https://github.com/HuseyinUnalan/image/blob/main/odev1.gif?raw=true" width="auto">
 
 <h4>Ödev Konusu</h4>
 <p>
