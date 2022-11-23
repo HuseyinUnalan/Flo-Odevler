@@ -6,7 +6,7 @@
 Bir formdan gelen Ad Soyad ve TC Kimlik numarası verisini veritabanına kaydeden bir uygulama hazırla. 
 Veritabanına kayıt etmeden önce TC Kimlik numarasını aşağıdaki kurallara göre bir Class içerisinde 
 doğrula ve sonucu da diğer bilgilerle birlikte veritabanına kaydet.
-<br>
+<br><br>
 (1) TC kimlik numaraları 11 hanelidir ve her hanesi rakamsal değerdedir.
 <br>
 (2) İlk hane hiçbir zaman 0 olamaz.
