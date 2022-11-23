@@ -25,6 +25,8 @@ require_once 'baglan.php';
 
 <body>
 
+  <?php require_once 'menu.php'; ?>
+  
   <div class="container mt-5">
     <table class="table">
       <thead>
