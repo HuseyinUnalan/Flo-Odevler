@@ -4,6 +4,7 @@
 <h4>Ödev Konusu</h4>
 <p>
 Aşağıdaki T.C. kimlik no kurallarına uygun T.C. kimlik numarası üreten uygulama. 
+<br>
 (1) TC kimlik numaraları 11 hanelidir ve her hanesi rakamsal değerdedir.
 <br>
 (2) İlk hane hiçbir zaman 0 olamaz.
