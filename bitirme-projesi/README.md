@@ -8,7 +8,6 @@ Online eğitim veren bir okulun öğretmen ve öğrenci bilgilerini tutan; yöne
 <br><br>
   
 <h4>Proje Genel Özellikler</h4>
-<br>
 (1)Öğretmen ve öğrenci arasında mesajlaşma yapılabilmesi.
 <br>
 (2)Takvim bölümü, buradan ders saatleri, sınav saatleri ve tatilleri görebilirler.
