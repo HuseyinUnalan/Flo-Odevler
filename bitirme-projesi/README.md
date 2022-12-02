@@ -1,5 +1,9 @@
 <h4>Proje Videosu</h4>
-<!-- <img src="https://github.com/HuseyinUnalan/images/blob/main/odev4.gif?raw=true" width="auto"> -->
+
+
+https://user-images.githubusercontent.com/116941857/205331329-4fac835d-410b-4bc3-8491-ded5feae918f.mp4
+
+
 <br>
 
 <h4>Proje Konusu</h4>
