@@ -22,6 +22,12 @@ Online eğitim veren bir okulun öğretmen ve öğrenci bilgilerini tutan; yöne
 (4)Öğrenci bilgiler ve not kayıtlarının tutulaması.
 <br>
 (5)Öğrencinin notlarını, not ortalamasını, harf notunu ve geçti-geçmedi durumlarını görmesi.
+<br>
+(6)Erişimi olmayan sayfaya giriş engellendi. (header, footer... sayfaları)
+<br>
+(7)404 Satfası Yapıldı
+<br>
+(8)Sayfaya giriş yetkisi olmayan kullanıcıların sayfaya girişi engellendi.
 <br><br>
 
 <h4>Yönetici Girişi Özellikleri</h4>
