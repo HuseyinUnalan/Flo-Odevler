@@ -1,13 +1,14 @@
 <h4>Proje Videosu</h4>
 <!-- <img src="https://github.com/HuseyinUnalan/images/blob/main/odev4.gif?raw=true" width="auto"> -->
+<br>
 
 <h4>Proje Konusu</h4>
 <p>
-Online eğitim veren bir okulun öğretmen ve öğrenci bilgilerini tutan yönetim, öğretmen ve öğrenci girişleri olan okul yönetim paneli.
+Online eğitim veren bir okulun öğretmen ve öğrenci bilgilerini tutan; yönetim, öğretmen ve öğrenci girişleri olan okul yönetim paneli.
 <br><br>
   
 <h4>Proje Genel Özellikler</h4>
-<br><br>
+<br>
 (1)Öğretmen ve öğrenci arasında mesajlaşma yapılabilmesi.
 <br>
 (2)Takvim bölümü, buradan ders saatleri, sınav saatleri ve tatilleri görebilirler.
@@ -20,7 +21,7 @@ Online eğitim veren bir okulun öğretmen ve öğrenci bilgilerini tutan yönet
 <br><br>
 
 <h4>Yönetici Girişi Özellikleri</h4>
-<br><br>
+<br>
 (1)Öğretmen ve öğrenci kaydı oluşturması.
 <br>
 (2)Öğretmen ve öğrenci panel giriş kaydı oluşturması.
@@ -37,7 +38,7 @@ Online eğitim veren bir okulun öğretmen ve öğrenci bilgilerini tutan yönet
 <br><br>
 
 <h4>Öğretmen Girişi Özellikleri</h4>
-<br><br>
+<br>
 (1)Öğrenci ders notu girme.
 <br>
 (2)Öğrenci ders notu sonuçlandırma.
@@ -46,9 +47,10 @@ Online eğitim veren bir okulun öğretmen ve öğrenci bilgilerini tutan yönet
 <br><br>
 
 <h4>Öğrenci Girişi Özellikleri</h4>
-<br><br>
+<br>
 (1)Notlarını, takvimi ve duyuruları görebilme.
 <br>
 (2)Öğretmenlere mesaj gönderebilme.
-
+<br>
+(3)Öğrencinin kendi notlarını, not ortalamasını, harf notunu ve geçti-geçmedi durumunu görme.
 </p>
