@@ -25,9 +25,19 @@ Online eğitim veren bir okulun öğretmen ve öğrenci bilgilerini tutan; yöne
 <br>
 (6)Erişimi olmayan sayfaya giriş engellendi. (header, footer... sayfaları)
 <br>
-(7)404 Satfası Yapıldı
+(7)404 Sayfası Yapıldı.
 <br>
 (8)Sayfaya giriş yetkisi olmayan kullanıcıların sayfaya girişi engellendi.
+<br>
+(9)MD5 ile şifreleme yapıldı.
+<br>
+(10)Fotoğraf düzenlendiği zaman eski fotoğraf klasörden siliniyor.
+<br>
+(11)Bir öğretmen sadece kendi dersi ile ilgili not giriş yapıp sonuçlandıra biliyor.
+<br>
+(12)Öğrenci ve öğretmen bilgileri CSV olarak kayıt edilebiliyor.
+<br>
+(13)Öğrenci ve öğretmen giriş bilgileri yönetim tarafından onaylanması gerekiyor ve kullanıcı adı otomatik olarak T.C. kimlik numarası, şifre ise telefon numarasanın son 4 hanesi olarak geliyor.
 <br><br>
 
 <h4>Yönetici Girişi Özellikleri</h4>
