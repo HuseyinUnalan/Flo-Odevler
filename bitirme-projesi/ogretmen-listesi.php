@@ -13,6 +13,8 @@ $ogretmensor->execute();
     <div class="row pt-2 pb-2">
       <div class="col-sm-9">
       </div>
+      <?php if ($kullanicicek["kullanici_durum"] == 1) { ?>
+
       <div class="col-sm-12">
         <div class="btn-group float-sm-right">
           <a href="ogretmen-ekle" class="btn btn-dark"> Yeni Ekle </a>
@@ -22,6 +24,7 @@ $ogretmensor->execute();
           <a href="ogretmen-indir.php" class="btn btn-primary"><i class="dwn"></i> Dışa Aktar</a>
         </div>
       </div>
+      <?php } ?>
     </div>
     <!-- End Breadcrumb-->
     <?php
